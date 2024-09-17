@@ -1,4 +1,6 @@
-# PDB Structure Alignment and RMSF Analysis
+# Conformational Heterogeneity Scanner #
+
+## PDB Structure Alignment and RMSF Analysis
 
 This Python script performs structural alignment of two PDB files and calculates the Root Mean Square Fluctuation (RMSF) between corresponding C-alpha atoms. It uses the Biopython library for PDB parsing and superposition, and generates an Excel file and a plot visualizing the RMSF values.
 
