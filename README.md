@@ -2,9 +2,9 @@
 
 This Python script performs structural alignment of two PDB files and calculates the Root Mean Square Fluctuation (RMSF) between corresponding C-alpha atoms. It uses the Biopython library for PDB parsing and superposition, and generates an Excel file and a plot visualizing the RMSF values. So, at its core it does 
 
-## PDB Structure Alignment and RMSF Analysis ##
+## PDB Structure Alignment and *RMSF* Analysis ##
 
-This tool currently is limited to ONLY utilizing PDBs with a SINGLE CHAIN. If that is NOT the case by default for you - I would request you to split the same. 
+This tool currently is limited to ONLY utilizing PDBs with a **SINGLE CHAIN**. If that is NOT the case by default for you - I would request you to split the same. 
 
 ## Requirements
 
