@@ -1,5 +1,11 @@
 Greeting and Salutations Fellow Homo Sapiens Sapiens!
 
+I have made this for a very simple purpose. To be able to compare two ".pdb" files.
+
+A ".pdb" file is basically the datatype that holds biomolecular structure information and these can be visualised using freely avaliable softwares as Coot, Pymol, Chimera...etc. PDB stands for "Protein Data Bank". The format though can have DNA or RNA stuctures as well. Even basic chemical macromolecular structures are in this format.
+
+Compare in the statement above refers to the systematic and categoric comparison of minor structural distance/displacement parameters of correspindingly aligned Residues/Bases(COMING SOON) for Proteins/Nucleic-Acids (COMING SOON). 
+
 It makes me immensely giddy to see you interested enought in the utility of the tool that you wish to understand the background of the same. 
 
 My research journey began at ICGEB, New Delhi in 2017 with a Basic Summer Internship at the Structural and Computational Biology Group. 
@@ -14,7 +20,7 @@ During this period - I learnt the basics of the Drug Discovery Pipeline.
    - Basics of Recombinant Protein Expression and Purification using Chromatographic Techniques. 
    - Crystallization Trials for Crystal formation, followed by a successful X-ray diffraction Experiment. 
    - Basics of Macromolecular Crystallography - Refining models to electron density maps for structure determination.
-   - Structural Comparison Analyses. 
+   - Structural Comparison Analyses - and what all fall under it.
 
 Fortunately, I was lucky enough to get enough data and flow of a story to be allowed by my Guide, Dr Amit Prakash Sharma - to start making small observations.
 These observations and visualizations then prompted us to start creating a storyline of a potential article that we I could author as my First Scientific Research Article.
@@ -25,9 +31,9 @@ That Research Article took almost a year to finally put everything together, dot
 
 It's DOI is : https://doi.org/10.1107/S2053230X19014808. 
 
-In the article, one might observe I have pedestall'ed 
-I have made this for a very simple purpose.
+In the article, one might observe I have pedestalled and shown via two examples that RMSD/res i.e. RMSF is better than a simple RMSD Calculation.  
 
-To be able to compare two ".pdb" files.
-
-A ".pdb" file is basically the datatype that holds biomolecular structure information and these can be visualised using freely avaliable softwares as Coot, Pymol, Chimera...etc. PDB stands for "Protein Data Bank". The format thogh can have DNA or RNA stuctures as well. Even basic chemical macromolecular structures are in this format.
+In the relevant context (Relevancy is a Percept) - it is truly a much more Robust, Granular and Visual Approach to compare two models of Biomolecules - be they in slightly varied contexts such as 
+- same biomolecule in apo vs ligand bound states, OR
+- Highly related biomolecule with drastic fold differences in different conditions. 
+- ...etc..
